@@ -25,24 +25,24 @@ II.STP (Shielded Twisted Pair Cable)
 I.Unshielded Twisted Pair Cable: The most common twisted pair cable used in communication is referred to as UTP. This is the least expensive of all the transmitted media commonly used for LAN it is easy to work with and easy to install.
      
 Advantages of UTP:
-•	It is cheap 
-•	Installation of the UTP is easy.
-•	It can be used for high-speed LAN.
+•It is cheap 
+•Installation of the UTP is easy.
+•It can be used for high-speed LAN.
 
 Disadvantages of UTP:
-•	This cable can be only used for shorter distances because of attenuation.
+•This cable can be only used for shorter distances because of attenuation.
 
-II.	Shielded Twisted Pair Cable:
+II.Shielded Twisted Pair Cable:
 STP cable has a metal foil or braided mesh covering in the cases of each pair of insulated conductors. Although metal casing improves the quality of cable preventing the penetration of noise or cross talk. It is more expensive.
  
 Advantages of STP:
-•	Better performance at a higher data rate.
-•	Eliminates cross-talk.
-•	Comparatively faster.
+•Better performance at a higher data rate.
+•Eliminates cross-talk.
+•Comparatively faster.
 
 Disadvantages of STP:
-•	Comparatively difficult to install and manufacture.
-•	More expensive.
+•Comparatively difficult to install and manufacture.
+•More expensive.
 
 Coaxial Cable—
 Coaxial cable (or coax) carries signals of higher frequency ranges than those in twisted pair cable. Coaxial cable is a very commonly used transmission media for example TV (television) wire usually a coaxial cable. The name of the cable is coaxial as it contains two conductors parallel to each other. The inner conductor of the coaxial cable is made up of copper mesh. The middle core is made up of a non-conductor cover that separates the inner conductor from the outer conductor. The middle core is responsible for the data transfer. Whereas the copper mesh prevents the EMI (electromagnetic interference).
@@ -55,13 +55,13 @@ The two types of coaxial cable are:--
 1.Thick Net—This type of coaxial cable cabling is used to span distances of up to 500 meters. It is used to directly connect computers, in backbone implementations between LANs. 
 
 Advantages of Coaxial Cable:
-•	The data can be transmitted at a high speed.
-•	It has better shielding as compared to twisted pair cable.
-•	It provides higher bandwidth.
+•The data can be transmitted at a high speed.
+•It has better shielding as compared to twisted pair cable.
+It provides higher bandwidth.
 
 Disadvantages of Coaxial Cable:
-•	It is more expensive as compared to twisted pair cable.
-•	If any fault occurs in the cable causes the failure in the entire network.
+•It is more expensive as compared to twisted pair cable.
+•If any fault occurs in the cable causes the failure in the entire network.
 
 Fiber Optic Cable—
 A fiber optic cable is made of glass or plastic and transmits signals in the form of light. An optical fiber is a thin, flexible medium capable of guiding an optical ray. The light sources used are either light-emitting diode (LED) or laser light.
@@ -85,18 +85,18 @@ Fiber optics can be categorized —
 
 Advantages of Optical Fiber:
 Fiber optics cable has several advantages:-
-•	Higher bandwidth- Fiber optics cable can support higher bandwidth than either twisted pair of cable or coaxial cable.
-•	Less signal Attenuation- Fiber optics transmission distance is significantly greater than that of other guided media.
-•	Immunity of Electromagnetic Interference- Electromagnetic noise cannot affect fiber optic cable.
-•	 Resistance of Corrosion Material- Glass is more resistant to corrosion material than copper.
-•	Lightweight- Fiber optic cables are much lighter than copper cables.
-•	Greater Immunity to Tapping- Fiber optics are more immune to tapping than copper cable.
+•Higher bandwidth- Fiber optics cable can support higher bandwidth than either twisted pair of cable or coaxial cable.
+•Less signal Attenuation- Fiber optics transmission distance is significantly greater than that of other guided media.
+•Immunity of Electromagnetic Interference- Electromagnetic noise cannot affect fiber optic cable.
+•Resistance of Corrosion Material- Glass is more resistant to corrosion material than copper.
+•Lightweight- Fiber optic cables are much lighter than copper cables.
+•Greater Immunity to Tapping- Fiber optics are more immune to tapping than copper cable.
 
 Disadvantages of Optical Fiber:
 There are some disadvantages to the use of optical fiber:-
-•	Installation and maintenance: Fiber optic cable is a relativity new technology. Its installation and maintenance require experts that are not yet available everywhere.
-•	Unidirectional light propagation: Propagation of light is unidirectional. If we need bidirectional communication, two fibers are needed.
-•	Coast: The cable and interfaces are relatively more expensive than those of other guided media.
+•Installation and maintenance: Fiber optic cable is a relativity new technology. Its installation and maintenance require experts that are not yet available everywhere.
+•Unidirectional light propagation: Propagation of light is unidirectional. If we need bidirectional communication, two fibers are needed.
+•Coast: The cable and interfaces are relatively more expensive than those of other guided media.
 
 
 2.Unguided Media: Unguided Media transports electromagnetic waves without using a physical conductor. This type of communication is often referred to as wireless communication. Signals are normally broadcast through free space and those are available to anyone. When is a device capable of receiving them?
@@ -106,11 +106,11 @@ An unguided signal can travel from the source to the destination in several ways
 2)Sky propagation 
 3)Line to sight propagation
 
-o	Ground propagation: In this radio waves travel through the lowest portion of the atmosphere to the earth. These low-frequency signals emanate in all directions from the transmitting antenna and follow the curvature of the planet.
-o	Sky propagation: In this higher frequency radio waves radiate upward into the ionosphere. Where they are reflected to the earth. This type of transmission allows for a greater distance with lower output power.
+o Ground propagation: In this radio waves travel through the lowest portion of the atmosphere to the earth. These low-frequency signals emanate in all directions from the transmitting antenna and follow the curvature of the planet.
 
+o Sky propagation: In this higher frequency radio waves radiate upward into the ionosphere. Where they are reflected to the earth. This type of transmission allows for a greater distance with lower output power.
 
-o	Line-of-sight Propagation: In this type very high-frequency signals are transmitted in straight lines directly from the antenna.
+o Line-of-sight Propagation: In this type very high-frequency signals are transmitted in straight lines directly from the antenna.
 
 Types of Unguided Media:
 Unguided Media can divided into three broad groups:-
@@ -118,25 +118,25 @@ i.Radio Wave
 ii.Microwave
 iii.Infrared 
 
-•	Radio Wave—
+•Radio Wave—
 Electromagnetic waves ranging in frequencies between 3KHz to 1 GHz are normally called radio waves.
 Radio waves are omnidirectional. When an antenna transmits radio waves. They are propagated in all directions. This means that the sending and receiving antennae do not have to be aligned. A sending antenna sends waves that can received by any receiving antenna. Radio waves omnidirectional antenna that signals to all directional.
 
 Application of radio waves:--
-•	The omnidirectional characteristic of radio waves makes them useful for multicasting in which there is one sender but many receivers.
-•	AM & FM and television coatless phones are examples of radio waves.
+•The omnidirectional characteristic of radio waves makes them useful for multicasting in which there is one sender but many receivers.
+•AM & FM and television coatless phones are examples of radio waves.
 
 Advantages of radio waves:
-•	Radio waves are mainly useful and mobile cellular phones.
-•	Radio waves cover a large area and they penetrate the walls.
-•	Radio transmission provides a higher transmission rate.
+•Radio waves are mainly useful and mobile cellular phones.
+•Radio waves cover a large area and they penetrate the walls.
+•Radio transmission provides a higher transmission rate.
 
 Disadvantages of Radio Waves:
-•	Only an audio medium for communication.
-•	Adjust the frequency properly.
-•	During bed whether we cannot listen properly.
+•Only an audio medium for communication.
+•Adjust the frequency properly.
+•During bed whether we cannot listen properly.
 
-•	Micro Wave—
+•Micro Wave—
 Electromagnetic waves having frequencies between 1 and 3 GHz are called microwaves.
 Microwaves are directional an antenna transmits microwaves they can be narrowly focused. This met sending and receiving antenna need to be aligned.
 Microwaves unidirectional antenna that sends out the signals in one direction.
@@ -149,17 +149,17 @@ Applications of microwaves:
 Microwaves due to their unidirectional properties are very useful when un cart (one-to-one) communication is needed between the sender and the receiver. They are used in cellular phones, satellite networks, and wireless LANs.
 
 Advantages of microwaves:
-•	Used for long-distance telephone communication.
-•	Carries 1000’s of voice channels at the same time.
-•	Antenna size gets reduced, as the frequencies are higher.
-•	Low power consumption as the signals of higher frequencies.
-•	More antenna gain is possible.
+•Used for long-distance telephone communication.
+•Carries 1000’s of voice channels at the same time.
+•Antenna size gets reduced, as the frequencies are higher.
+Low power consumption as the signals of higher frequencies.
+•More antenna gain is possible.
 
 Disadvantages of microwaves: 
 There are a few disadvantages of microwaves such as following—
-•	Cost of equipment or installation cost is high.
-•	Electromagnetic interference may occur.
-•	They are heavy and occupy more space.
+•Cost of equipment or installation cost is high.
+•Electromagnetic interference may occur.
+•They are heavy and occupy more space.
 
 
 
